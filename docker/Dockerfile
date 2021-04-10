@@ -1,4 +1,4 @@
-FROM normes/inbound-agent:latest
+FROM normes/docker-inbound-agent:latest
 
 USER root
 
