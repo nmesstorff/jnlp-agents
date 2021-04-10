@@ -1,4 +1,4 @@
-FROM jenkins/inbound-agent:alpine
+FROM normes/inbound-agent:latest
 
 USER root
 
